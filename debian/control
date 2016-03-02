@@ -11,7 +11,7 @@ Package: budgie-desktop-environment
 Architecture: all
 Section: metapackages
 Depends: budgie-desktop,
- budgie-remix-lightdm-themes,
+ budgie-remix-lightdm-theme,
  chromium-browser,
  gnome-tweak-tool,
  gnome-software,
