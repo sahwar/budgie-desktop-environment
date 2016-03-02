@@ -1,0 +1,6 @@
+budgie-desktop-environment (0.1-1) xenial; urgency=medium
+
+  * Initial release (as it's own module).
+
+ -- fossfreedom <foss.freedom@gmail.com>  Tue, 01 Mar 2016 11:41:27 +0200
+
