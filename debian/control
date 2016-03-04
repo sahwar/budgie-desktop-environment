@@ -19,6 +19,7 @@ Depends: budgie-desktop,
  nautilus,
  gnome-terminal,
  gedit,
+ hplip
  ${misc:Depends}
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
