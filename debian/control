@@ -13,13 +13,23 @@ Section: metapackages
 Depends: budgie-desktop,
  budgie-remix-lightdm-theme,
  chromium-browser,
- gnome-tweak-tool,
  gnome-software,
- dconf-editor, 
  nautilus,
  gnome-terminal,
  gedit,
- hplip
+ hplip,
+ file-roller,
+ gnote,
+ eog,
+ evince,
+ gnome-calculator,
+ simple-scan,
+ gnome-orca,
+ gnome-screenshot,
+ gnome-sushi,
+ app-install-data,
+ dmz-cursor-theme,
+ apport-gtk
  ${misc:Depends}
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages

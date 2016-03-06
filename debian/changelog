@@ -1,3 +1,15 @@
+budgie-desktop-environment (0.2-1ubuntu1) xenial; urgency=medium
+
+  * app-install-data dependency
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sun, 06 Mar 2016 15:16:49 +0000
+
+budgie-desktop-environment (0.2-1) xenial; urgency=medium
+
+  * software packages for beta1
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sat, 05 Mar 2016 21:41:26 +0000
+
 budgie-desktop-environment (0.1-1ubuntu2) xenial; urgency=medium
 
   * hplip dependency
