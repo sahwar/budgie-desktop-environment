@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.2-1ubuntu3) xenial; urgency=medium
+
+  * add photos, totem, diskwriter
+
+ -- fossfreedom <foss.freedom@gmail.com>  Thu, 10 Mar 2016 20:34:55 +0000
+
 budgie-desktop-environment (0.2-1ubuntu2) xenial; urgency=medium
 
   * rhythmbox config
