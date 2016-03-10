@@ -28,6 +28,9 @@ Depends: budgie-desktop,
  gnome-screenshot,
  gnome-sushi,
  app-install-data,
+ rhythmbox,
+ rhythmbox-plugin-alternative-toolbar,
+ rhythmbox-plugin-tray-icon,
  dmz-cursor-theme,
  apport-gtk
  ${misc:Depends}
