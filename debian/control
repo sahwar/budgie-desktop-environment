@@ -12,6 +12,9 @@ Architecture: all
 Section: metapackages
 Depends: budgie-desktop,
  budgie-remix-lightdm-theme,
+ dmz-cursor-theme,
+ ${misc:Depends}
+Recommends:
  chromium-browser,
  gnome-software,
  nautilus,
@@ -30,12 +33,14 @@ Depends: budgie-desktop,
  gnome-photos,
  gnome-disk-utility,
  totem,
+ gnome-sudoku,
+ gnome-mines,
+ gnome-mahjongg,
+ aisleriot,
  app-install-data,
  rhythmbox,
  rhythmbox-plugin-alternative-toolbar,
  rhythmbox-plugin-tray-icon,
- dmz-cursor-theme,
  apport-gtk
- ${misc:Depends}
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
