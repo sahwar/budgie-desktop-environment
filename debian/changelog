@@ -1,3 +1,16 @@
+budgie-desktop-environment (0.2-1ubuntu7) xenial; urgency=medium
+
+  * libreoffice
+  * budgie xfdashboard
+
+ -- dad <dad@dad-VirtualBox>  Sat, 12 Mar 2016 23:51:56 +0000
+
+budgie-desktop-environment (0.2-1ubuntu6) xenial; urgency=medium
+
+  * firefox + theme
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sat, 12 Mar 2016 19:57:49 +0000
+
 budgie-desktop-environment (0.2-1ubuntu5) xenial; urgency=medium
 
   * move to recommends for most packages

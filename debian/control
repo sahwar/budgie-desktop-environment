@@ -16,6 +16,7 @@ Depends: budgie-desktop,
  ${misc:Depends}
 Recommends:
  chromium-browser,
+ arc-firefox-theme,
  gnome-software,
  nautilus,
  gnome-terminal,
@@ -41,6 +42,10 @@ Recommends:
  rhythmbox,
  rhythmbox-plugin-alternative-toolbar,
  rhythmbox-plugin-tray-icon,
+ alacarte,
+ transmission,
+ libreoffice,
+ libreoffice-style-sifr,
  apport-gtk
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
