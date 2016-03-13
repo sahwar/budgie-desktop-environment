@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.2-1ubuntu8) xenial; urgency=medium
+
+  * budgie-xfdashboard
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sun, 13 Mar 2016 00:17:37 +0000
+
 budgie-desktop-environment (0.2-1ubuntu7) xenial; urgency=medium
 
   * libreoffice
