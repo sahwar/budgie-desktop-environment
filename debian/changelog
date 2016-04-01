@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.2-1ubuntu10) xenial; urgency=medium
+
+  * add budgie-desktop-common dependency
+
+ -- fossfreedom <foss.freedom@gmail.com>  Fri, 01 Apr 2016 19:20:56 +0100
+
 budgie-desktop-environment (0.2-1ubuntu9) xenial; urgency=medium
 
   * replaced alacarte with menulibre

@@ -11,6 +11,7 @@ Package: budgie-desktop-environment
 Architecture: all
 Section: metapackages
 Depends: budgie-desktop,
+ budgie-desktop-common,
  budgie-remix-lightdm-theme,
  dmz-cursor-theme,
  ${misc:Depends}

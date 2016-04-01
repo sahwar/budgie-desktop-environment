@@ -5,9 +5,6 @@ Source: https://github.com/budgie-remix/budgie-desktop-environment
 Files: *
 Copyright: Copyright 2016 David "fossfreedom" Mohammed <foss.freedom@gmail.com>
 License: GPL-2+
- Debian package released under GPL-2+
-
-LICENSE: GPL-2+
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU General Public
  License as published by the Free Software Foundation; either
