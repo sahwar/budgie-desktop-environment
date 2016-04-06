@@ -17,6 +17,7 @@ Depends: budgie-desktop,
  ${misc:Depends}
 Recommends:
  arc-firefox-theme,
+ vertex-theme,
  gnome-software,
  nautilus,
  gnome-terminal,

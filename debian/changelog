@@ -1,65 +1,20 @@
-budgie-desktop-environment (0.2-1ubuntu10) xenial; urgency=medium
+budgie-desktop-environment (0.3-1) xenial; urgency=medium
 
+  * consolidate changelog
+  * add vertex-theme
   * add budgie-desktop-common dependency
-
- -- fossfreedom <foss.freedom@gmail.com>  Fri, 01 Apr 2016 19:20:56 +0100
-
-budgie-desktop-environment (0.2-1ubuntu9) xenial; urgency=medium
-
-  * replaced alacarte with menulibre
-  * remove gnote
-
- -- fossfreedom <foss.freedom@gmail.com>  Mon, 14 Mar 2016 20:47:44 +0000
-
-budgie-desktop-environment (0.2-1ubuntu8) xenial; urgency=medium
-
+  * menulibre
   * budgie-xfdashboard
-
- -- fossfreedom <foss.freedom@gmail.com>  Sun, 13 Mar 2016 00:17:37 +0000
-
-budgie-desktop-environment (0.2-1ubuntu7) xenial; urgency=medium
-
   * libreoffice
-  * budgie xfdashboard
-
- -- fossfreedom <foss.freedom@gmail.com>  Sat, 12 Mar 2016 23:51:56 +0000
-
-budgie-desktop-environment (0.2-1ubuntu6) xenial; urgency=medium
-
   * firefox + theme
-
- -- fossfreedom <foss.freedom@gmail.com>  Sat, 12 Mar 2016 19:57:49 +0000
-
-budgie-desktop-environment (0.2-1ubuntu5) xenial; urgency=medium
-
   * move to recommends for most packages
   * add games
-
- -- fossfreedom <foss.freedom@gmail.com>  Fri, 11 Mar 2016 22:48:39 +0000
-
-budgie-desktop-environment (0.2-1ubuntu4) xenial; urgency=medium
-
-  * wrong package name should be gnome-disk-utility
-
- -- fossfreedom <foss.freedom@gmail.com>  Thu, 10 Mar 2016 21:01:55 +0000
-
-budgie-desktop-environment (0.2-1ubuntu3) xenial; urgency=medium
-
+  * gnome-disk-utility
   * add photos, totem, diskwriter
-
- -- fossfreedom <foss.freedom@gmail.com>  Thu, 10 Mar 2016 20:34:55 +0000
-
-budgie-desktop-environment (0.2-1ubuntu2) xenial; urgency=medium
-
   * rhythmbox config
-
- -- fossfreedom <foss.freedom@gmail.com>  Thu, 10 Mar 2016 00:17:50 +0000
-
-budgie-desktop-environment (0.2-1ubuntu1) xenial; urgency=medium
-
   * app-install-data dependency
 
- -- fossfreedom <foss.freedom@gmail.com>  Sun, 06 Mar 2016 15:16:49 +0000
+ -- fossfreedom <foss.freedom@gmail.com>  Wed, 06 Apr 2016 15:16:49 +0000
 
 budgie-desktop-environment (0.2-1) xenial; urgency=medium
 
