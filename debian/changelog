@@ -1,3 +1,10 @@
+budgie-desktop-environment (0.3-1ubuntu1) xenial; urgency=medium
+
+  * drop budgie-xfdashboard
+  * add tlp and budgie-plank
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sun, 10 Apr 2016 00:10:35 +0100
+
 budgie-desktop-environment (0.3-1) xenial; urgency=medium
 
   * consolidate changelog

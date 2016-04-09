@@ -47,7 +47,8 @@ Recommends:
  transmission,
  libreoffice,
  libreoffice-style-sifr,
- budgie-xfdashboard,
- apport-gtk
+ apport-gtk,
+ tlp,
+ budgie-plank
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
