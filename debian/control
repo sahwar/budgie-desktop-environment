@@ -27,6 +27,7 @@ Recommends:
  eog,
  evince,
  gnome-calculator,
+ gnome-calendar,
  simple-scan,
  gnome-orca,
  gnome-screenshot,
