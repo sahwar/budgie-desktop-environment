@@ -1,3 +1,10 @@
+budgie-desktop-environment (0.3-1ubuntu3) xenial; urgency=medium
+
+  * close (#1)
+  * rename all home user dirs after changing language
+
+ -- fossfreedom <foss.freedom@gmail.com>  Thu, 14 Apr 2016 20:45:42 +0100
+
 budgie-desktop-environment (0.3-1ubuntu2) xenial; urgency=medium
 
   * add gnome-calendar

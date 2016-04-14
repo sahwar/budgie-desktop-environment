@@ -14,6 +14,7 @@ Depends: budgie-desktop,
  budgie-desktop-common,
  budgie-remix-lightdm-theme,
  dmz-cursor-theme,
+ xdg-user-dirs-gtk,
  ${misc:Depends}
 Recommends:
  arc-firefox-theme,
