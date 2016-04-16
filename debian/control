@@ -51,6 +51,7 @@ Recommends:
  libreoffice-style-sifr,
  apport-gtk,
  tlp,
- budgie-plank
+ budgie-plank,
+ libnotify-bin
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages

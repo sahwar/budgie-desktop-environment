@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.3-1ubuntu4) xenial; urgency=medium
+
+  * add support for notifications
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sat, 16 Apr 2016 23:54:44 +0100
+
 budgie-desktop-environment (0.3-1ubuntu3) xenial; urgency=medium
 
   * close (#1)
