@@ -3,7 +3,7 @@ Section: gnome
 Priority: optional
 Maintainer: fossfreedom <foss.freedom@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Homepage: https://github.com/budgie-remix
 Vcs-Browser: https://github.com/budgie-remix/budgie-desktop-environment
 
