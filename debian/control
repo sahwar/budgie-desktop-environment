@@ -18,6 +18,8 @@ Depends: budgie-desktop,
  ${misc:Depends}
 Recommends:
  arc-firefox-theme,
+ arc-theme,
+ moka-icon-theme,
  vertex-theme,
  gnome-software,
  nautilus,
@@ -53,7 +55,6 @@ Recommends:
  tlp,
  budgie-plank,
  libnotify-bin,
- notify-osd,
  nano
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages

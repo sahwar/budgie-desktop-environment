@@ -1,3 +1,22 @@
+budgie-desktop-environment (0.3.3-1) xenial; urgency=medium
+
+  * remove recommendation of notify-osd - can cause double notifications
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sat, 11 Jun 2016 11:11:52 +0100
+
+budgie-desktop-environment (0.3.2-1) xenial; urgency=medium
+
+  * add arc-theme and moka-icon-theme as recommendations
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sun, 22 May 2016 22:19:53 +0100
+
+budgie-desktop-environment (0.3.1-1ubuntu1) xenial; urgency=medium
+
+  * added dbus and dbus-user-session to recommendations
+    should fix nm-applet not showing popup box after installation
+
+ -- fossfreedom <foss.freedom@gmail.com>  Sat, 23 Apr 2016 10:49:30 +0100
+
 budgie-desktop-environment (0.3.1-1) xenial; urgency=medium
 
   * add notify-osd and nano
