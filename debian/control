@@ -12,7 +12,7 @@ Architecture: all
 Section: metapackages
 Depends: budgie-desktop,
  budgie-desktop-common,
- budgie-remix-lightdm-theme,
+ budgie-lightdm-theme,
  dmz-cursor-theme,
  xdg-user-dirs-gtk,
  ${misc:Depends}
@@ -45,8 +45,8 @@ Recommends:
  app-install-data,
  rhythmbox,
  rhythmbox-plugin-alternative-toolbar,
- rhythmbox-plugin-tray-icon,
  menulibre,
+ totem,
  transmission,
  libreoffice,
  libreoffice-style-breeze,
@@ -55,5 +55,13 @@ Recommends:
  budgie-plank,
  libnotify-bin,
  nano
-Description: Budgie desktop environment
- Meta-package installs budgie-remix packages
+Description: Desktop environment for Ubuntu Budgie
+ Installs all Ubuntu Budgie packages
+ 
+Package: budgie-desktop-common
+Architecture: all
+Section: misc
+Depends: ${misc:Depends}
+Description: Common budgie desktop components
+ budgie-desktop common components
+
