@@ -63,5 +63,7 @@ Architecture: all
 Section: misc
 Depends: ${misc:Depends}
 Description: Common budgie desktop components
- budgie-desktop common components
+ budgie-desktop common components i.e.
+ gsettings overrides
+ make QT apps look like GTK apps
 
