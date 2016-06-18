@@ -54,7 +54,8 @@ Recommends:
  tlp,
  budgie-plank,
  libnotify-bin,
- nano
+ nano,
+ snapd
 Description: Desktop environment for Ubuntu Budgie
  Installs all Ubuntu Budgie packages
  
