@@ -55,6 +55,7 @@ Recommends:
  tlp,
  budgie-plank,
  libnotify-bin,
- nano
+ nano,
+ snapd
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
