@@ -54,6 +54,7 @@ Recommends:
  apport-gtk,
  tlp,
  budgie-plank,
- nano
+ nano,
+ snapd
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
