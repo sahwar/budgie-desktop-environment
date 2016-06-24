@@ -54,7 +54,6 @@ Recommends:
  apport-gtk,
  tlp,
  budgie-plank,
- libnotify-bin,
  nano
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
