@@ -34,7 +34,6 @@ Recommends:
  gnome-screenshot,
  gnome-sushi,
  gnome-photos,
- gthumb,
  gnome-disk-utility,
  gnome-sudoku,
  gnome-mines,
@@ -52,7 +51,6 @@ Recommends:
  apport-gtk,
  tlp,
  budgie-plank,
- libnotify-bin,
  nano,
  snapd
 Description: Desktop environment for Ubuntu Budgie
