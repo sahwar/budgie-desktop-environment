@@ -14,6 +14,9 @@ Depends: budgie-desktop,
  budgie-lightdm-theme,
  dmz-cursor-theme,
  xdg-user-dirs-gtk,
+ plymouth-theme-ubuntu-budgie-logo,
+ plymouth-theme-ubuntu-budgie-text,
+ plymouth-themes,
  ${misc:Depends}
 Recommends:
  arc-firefox-theme,
@@ -50,7 +53,6 @@ Recommends:
  libreoffice-style-breeze,
  apport-gtk,
  tlp,
- budgie-plank,
  nano,
  snapd
 Description: Desktop environment for Ubuntu Budgie
