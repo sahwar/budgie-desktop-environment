@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.3.6-0ubuntu1) xenial; urgency=medium
+
+  * add budgie-welcome
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 22 Jul 2016 18:19:25 +0100
+
 budgie-desktop-environment (0.3.5-0ubuntu1) xenial; urgency=medium
 
   * remove libnotify-bin which is another cause double notifications
