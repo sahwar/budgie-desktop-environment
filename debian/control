@@ -54,7 +54,9 @@ Recommends:
  apport-gtk,
  tlp,
  nano,
- snapd
+ snapd,
+ budgie-welcome,
+ gnome-system-monitor
 Description: Desktop environment for Ubuntu Budgie
  Installs all Ubuntu Budgie packages
  
