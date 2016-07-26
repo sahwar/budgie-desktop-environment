@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.3.7) xenial; urgency=medium
+
+  * add gnome-system-monitor
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 26 Jul 2016 18:49:48 +0100
+
 budgie-desktop-environment (0.3.6-0ubuntu1) xenial; urgency=medium
 
   * add budgie-welcome

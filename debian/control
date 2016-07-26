@@ -56,6 +56,7 @@ Recommends:
  budgie-plank,
  nano,
  snapd,
- budgie-welcome
+ budgie-welcome,
+ gnome-system-monitor
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
