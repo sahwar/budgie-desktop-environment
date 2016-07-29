@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.3.8) xenial; urgency=medium
+
+  * add a variety of packages found on common ubuntu flavours
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 29 Jul 2016 23:35:44 +0100
+
 budgie-desktop-environment (0.3.7) xenial; urgency=medium
 
   * add gnome-system-monitor

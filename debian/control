@@ -57,6 +57,14 @@ Recommends:
  nano,
  snapd,
  budgie-welcome,
- gnome-system-monitor
+ gnome-system-monitor,
+ policykit-desktop-privileges,
+ nautilus-share,
+ ppa-purge,
+ gvfs-fuse,
+ ibus-pinyin,
+ ibus-table,
+ laptop-detect,
+ acpi-support
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
