@@ -1,10 +1,12 @@
 Source: budgie-desktop-environment
 Section: x11
 Priority: optional
-Maintainer: David Mohammed <foss.freedom@gmail.com>
+Maintainer: David Mohammed <fossfreedom@ubuntu.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Standards-Version: 3.9.7
 Homepage: https://github.com/budgie-remix
+Vcs-Git: http://github.com/budgie-remix/budgie-remix-lightdm-theme.git
+Vcs-Browser: http://github.com/budgie-remix/budgie-remix-lightdm-theme
 
 Package: budgie-desktop-environment
 Architecture: all
@@ -56,7 +58,15 @@ Recommends:
  nano,
  snapd,
  budgie-welcome,
- gnome-system-monitor
+ gnome-system-monitor,
+ policykit-desktop-privileges,
+ nautilus-share,
+ ppa-purge,
+ gvfs-fuse,
+ ibus-pinyin,
+ ibus-table,
+ laptop-detect,
+ acpi-support
 Description: Desktop environment for Ubuntu Budgie
  Installs all Ubuntu Budgie packages
  
@@ -67,5 +77,6 @@ Depends: ${misc:Depends}
 Description: Common budgie desktop components
  budgie-desktop common components i.e.
  gsettings overrides
+ budgie-remix panel configuration
  make QT apps look like GTK apps
 
