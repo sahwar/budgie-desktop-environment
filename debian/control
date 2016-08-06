@@ -65,6 +65,7 @@ Recommends:
  ibus-pinyin,
  ibus-table,
  laptop-detect,
- acpi-support
+ acpi-support,
+ bash-completion
 Description: Budgie desktop environment
  Meta-package installs budgie-remix packages
