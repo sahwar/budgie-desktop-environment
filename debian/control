@@ -21,7 +21,6 @@ Depends: budgie-desktop,
  plymouth-themes,
  ${misc:Depends}
 Recommends:
- arc-firefox-theme,
  arc-theme,
  moka-icon-theme,
  gnome-software,
@@ -57,7 +56,6 @@ Recommends:
  tlp,
  nano,
  snapd,
- budgie-welcome,
  gnome-system-monitor,
  policykit-desktop-privileges,
  nautilus-share,
@@ -66,9 +64,11 @@ Recommends:
  ibus-pinyin,
  ibus-table,
  laptop-detect,
- acpi-support
-Description: Desktop environment for Ubuntu Budgie
- Installs all Ubuntu Budgie packages
+ acpi-support,
+ bash-completion
+Description: Desktop environment for budgie-remix
+ Installs all budgie-remix packages, both essential dependencies
+ as well as recommended packages and applications.
  
 Package: budgie-desktop-common
 Architecture: all
@@ -79,4 +79,3 @@ Description: Common budgie desktop components
  gsettings overrides
  budgie-remix panel configuration
  make QT apps look like GTK apps
-
