@@ -54,6 +54,7 @@ Recommends:
  libreoffice-style-breeze,
  apport-gtk,
  tlp,
+ thermald,
  nano,
  snapd,
  gnome-system-monitor,
