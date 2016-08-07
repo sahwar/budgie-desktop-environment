@@ -53,6 +53,7 @@ Recommends:
  libreoffice-style-sifr,
  apport-gtk,
  tlp,
+ thermald,
  budgie-plank,
  nano,
  snapd,

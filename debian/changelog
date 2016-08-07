@@ -1,3 +1,9 @@
+budgie-desktop-environment (0.3.10) xenial; urgency=medium
+
+  * add thermald
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 07 Aug 2016 23:16:02 +0100
+
 budgie-desktop-environment (0.3.9) xenial; urgency=medium
 
   * add bash-completion
